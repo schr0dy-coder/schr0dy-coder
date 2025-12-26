@@ -1,33 +1,151 @@
-<h1 align="center">Hi 👋, I'm Sujal Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer, a curious Game Developer-in-training.</h3>
+<div align="center">
+  
+# 💫 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=schr0dy-coder&label=Profile%20views&color=0e75b6&style=flat" alt="schr0dy-coder" /> </p>
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ███████╗██╗   ██╗     ██╗ █████╗ ██╗                      ║
+║   ██╔════╝██║   ██║     ██║██╔══██╗██║                      ║
+║   ███████╗██║   ██║     ██║███████║██║                      ║
+║   ╚════██║██║   ██║██   ██║██╔══██║██║                      ║
+║   ███████║╚██████╔╝╚█████╔╝██║  ██║███████╗                 ║
+║   ╚══════╝ ╚═════╝  ╚════╝ ╚═╝  ╚═╝╚══════╝                 ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-- 🔭 I’m currently working on [TechRediva](https://schr0dy-coder.github.io/TechRediva/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Algorithm+Design+%26+Machine+Learning;Competitive+Programmer;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **FrameWorks, Backend, Game Development**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-- 👨‍💻 All of my projects are available at [https://github.com/schr0dy-coder](https://github.com/schr0dy-coder)
+[![Profile Views](https://komarev.com/ghpvc/?username=schr0dy_coder&label=Profile%20Views&color=grey&style=for-the-badge)](https://github.com/schr0dy_coder)
 
-- 📫 How to reach me **sujalkumar6870@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://schr0dy-coder.github.io/Portfolio/](https://schr0dy-coder.github.io/Portfolio/)
+---
 
-- ⚡ Fun fact **I think, I am Insane!**
+## 🎯 What I'm Passionate About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sujal-kumar-2150b5362/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujal-kumar-2150b5362/" height="30" width="40" /></a>
-<a href="https://instagram.com/@sujal.grey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sujal.grey" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sujalkumar6870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sujalkumar6870" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sujalkumar_grey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sujalkumar_grey/" height="30" width="40" /></a>
-</p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+```yaml
+name: Sujal Kumar
+located_in: India
+current_focus: Algorithm Design & Machine Learning
+education: Computer Science Engineering Student
+interests:
+  - Competitive Programming
+  - Data Structures & Algorithms
+  - Machine Learning & AI
+  - Backend Development
+  - Problem Solving
+learning: Advanced ML Algorithms & System Design
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schr0dy-coder&show_icons=true&locale=en&layout=compact" alt="schr0dy-coder" /></p>
+<br clear="right"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schr0dy-coder&show_icons=true&locale=en" alt="schr0dy-coder" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schr0dy-coder&" alt="schr0dy-coder" /></p>
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-kumar-2150b5362/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SujalKumar_Grey/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/sujal_grey)
+[![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/Sujal.Grey)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🚀 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### 🎨 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=schr0dy_coder&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=schr0dy_coder&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schr0dy_coder&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schr0dy_coder&theme=gruvbox" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schr0dy_coder&theme=gruvbox" alt="Profile Details" width="99%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=schr0dy_coder&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=schr0dy_coder&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="99%"/>
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎵 Vibing to:
+  
+[![Spotify](https://novatorem-schr0dy-coder.vercel.app/api/spotify)](https://open.spotify.com/user/31l4errwbuxoizflf3k3mffvfbgu)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### ⭐️ Show some love by starring repositories you find interesting!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
