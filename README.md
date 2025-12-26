@@ -92,40 +92,6 @@ learning: Advanced ML Algorithms & System Design
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=schr0dy_coder&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=schr0dy_coder&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schr0dy_coder&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schr0dy_coder&theme=gruvbox" alt="Productive Time" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schr0dy_coder&theme=gruvbox" alt="Profile Details" width="99%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=schr0dy_coder&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=schr0dy_coder&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="99%"/>
-</div>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -140,7 +106,7 @@ learning: Advanced ML Algorithms & System Design
   
 ### 🎵 Vibing to:
   
-[![Spotify](https://novatorem-schr0dy-coder.vercel.app/api/spotify)](https://open.spotify.com/user/31l4errwbuxoizflf3k3mffvfbgu)
+[![Spotify](https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg)](https://open.spotify.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
