@@ -19,7 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=schr0dy_coder&label=Profile%20Views&color=grey&style=for-the-badge)](https://github.com/schr0dy_coder)
+[![Profile Views](https://komarev.com/ghpvc/?username=schr0dy-coder&label=Profile%20Views&color=grey&style=for-the-badge)](https://github.com/schr0dy_coder)
 
 </div>
 
