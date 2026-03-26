@@ -16,7 +16,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-kumar-2150b5362/)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode_1934-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SujalKumar_Grey/)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode_1934-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/GreyVesper/)&nbsp;
 [![CodeChef](https://img.shields.io/badge/CodeChef_1624-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/sujal_grey)&nbsp;
 [![Codolio](https://img.shields.io/badge/Codolio-%23000000.svg?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/Sujal.Grey)&nbsp;
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalkumarsahu24@gmail.com)
@@ -98,7 +98,7 @@ i believe   :
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SujalKumar_Grey?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=8)](https://leetcode.com/u/SujalKumar_Grey/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SujalKumar_Grey?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=8)](https://leetcode.com/u/GreyVesper/)
 
 </div>
 
